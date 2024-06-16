@@ -1,9 +1,0 @@
-Mumbai
-Kolkata
-Ahmedabad
-
-# 4 More cities #
-Bengaluru
-Chennai
-Jaipur
-Hyderabad
