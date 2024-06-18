@@ -8,3 +8,5 @@ Kolkata1
 Mumbai 
 Delhi
 Nagpur
+
+{city : "single"}
