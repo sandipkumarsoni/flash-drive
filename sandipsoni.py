@@ -1,4 +1,3 @@
-import pandas as pd
-print(dir(pd))
-
-import numpy as np
+commit -1
+commit -2
+commit -3
