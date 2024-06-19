@@ -1,7 +1,12 @@
-KamleshKumar Soni
-LOgo31 Adddee
-LOgo31 Adddee
-LOgo31 Adddee
-LOgo31 Adddee
+import pandas as pd
 
-{'name': 'Soni'}
+arr = [1,2,3,4]
+print(arr)
+
+
+
+def pri(arr):
+    for a in arr:
+        print(a)
+
+pri(arr)        
