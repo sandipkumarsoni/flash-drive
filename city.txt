@@ -10,3 +10,7 @@ Delhi
 Nagpur
 
 {city : "single"}
+
+
+{name : "sandip", surname: 'sn', age: '34'}
+
